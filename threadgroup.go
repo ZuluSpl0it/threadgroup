@@ -11,7 +11,7 @@ package threadgroup
 import (
 	"sync"
 
-	"github.com/NebulousLabs/errors"
+	"github.com/zuluspl0it/errors"
 )
 
 // ErrStopped is returned by ThreadGroup methods if Stop has already been
